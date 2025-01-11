@@ -37,8 +37,8 @@ Link 👉 https://drive.google.com/file/d/1jlX5Y0q55-ivIWTnZ0yum3vaoxwURoS3/view
 
 Clone the repository and navigate to each project folder to install dependencies.
 ```bash
-  git clone https://github.com/MrTharinduDasantha/Task-Manager-App.git
-  cd Task-Manager-App
+  git clone https://github.com/MrTharinduDasantha/Task-Management-App.git
+  cd Task-Management-App
 ```
 #### Folder Setup
 The project is divided into two main folders: frontend and backend. You will need to install dependencies for each.

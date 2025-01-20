@@ -64,7 +64,7 @@ DB_PORT = 3306
 cd backend
 node app.js
 ```
-- Start the frontend.
+- Start the frontend
 ```bash
 cd ../frontend
 npm run dev
